@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quickfix.roadside",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:FC:CF:22:98:AE:55:0C:5F:B6:37:37:A6:CF:EB:20:9C:23:44:03:D0:6B:7E:6D:E6:86"
+      ]
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "QuickFix Roadside Assistance",
+  "description": "AI-powered emergency roadside assistance platform with real-time location tracking, Google Maps navigation, AI vehicle diagnosis, dashboard light scanner, SOS dispatch, secure payment, and multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

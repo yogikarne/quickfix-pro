@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QuickFix Roadside Assistance</string>
+    <string name="title_activity_main">QuickFix Roadside Assistance</string>
+    <string name="package_name">com.quickfix.roadside</string>
+    <string name="custom_url_scheme">com.quickfix.roadside</string>
+</resources>
